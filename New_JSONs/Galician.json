@@ -1,0 +1,265 @@
+{
+    "count": 43,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "02110684-b76b-4830-81a2-a753c165365c",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "0e82f81c-4714-4877-972a-6ff25cd98d05",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1a69b10a-0956-4419-8359-970686f53662",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1db63b38-28aa-461d-bb40-4881c35e48ba",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2e51ac6c-e7c2-4ca8-9ccd-235865ce4c6d",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "336c063e-d8d3-4ef6-baa8-3d9a360ed5fb",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "37b4abc3-e06a-478d-8e55-0e6d40015e6c",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "3f3b7da9-3d74-405e-aa57-4452b4f6ef98",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "3f4abc55-0427-43ff-9807-f8750f8123de",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "40ceaeba-6929-480d-8855-1ac7ebc14ee0",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "48ea99c0-78da-41d9-aa74-b70ea0922d60",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "4d73c958-172b-483f-93a4-870ec3aac1a4",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "573f3dc8-c6d3-4962-a6aa-21da58d2fe89",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "5bb40d9f-32fd-4e95-8191-38a1be7c5dfe",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "5d35ddc3-4458-4351-9615-c0e982a4a997",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6a640c4b-c80c-4257-97e5-8cd5c39ea9c1",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7f3e8eb2-33a0-4391-93ff-5364e0b1a391",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "82e51848-9d5f-4f31-a8dd-3d5e3a3aee99",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "8ea0f1e5-51e6-4e6a-8e4a-3028b544d46a",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "94b701b4-9c9f-425e-97f2-132f1ac2bba0",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "95bf9b13-602f-41f7-9f1a-3733ec94e93f",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a0299df4-9bfe-491a-ae3e-147ba7f30555",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a2f60543-5509-49d7-a4d0-a9ea2c8bb05e",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ab92ca5d-b91b-41a0-a0ec-a61a9295b1f7",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "afbbf0a6-5c0d-4c93-93e9-ff1113a16216",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b0de2eef-8157-40eb-b9a4-a68dda1215e0",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c1240bcf-27fa-4834-bdf2-b34551ddd994",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c252288e-0377-4a3e-8bca-98702fc25228",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c283ee98-2a80-4217-b6d1-ff777250e363",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c28fd0c6-6a94-463c-8035-d61a6c82b1da",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c440e954-7b52-422e-9023-0ceba02ebe46",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c7abadfa-df1f-4aad-8f17-bd5ee743fda2",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c9ae6890-5a9a-4075-86a9-565248c32c4e",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d3f51f6b-41a2-4fb4-809d-06fcc781ceaf",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d5a9d881-7d1d-404e-982c-fb8667ac0953",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d678233b-b2b6-4b55-90ac-28189e82b048",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "da6e25db-ae1b-4444-a541-926a6c35580f",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "daf7b4c6-8c37-4c0e-93f1-fd177e15e07e",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e2da66c3-9ee5-43ed-a6ac-01e79ed983e2",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e48359b7-e586-4c6a-b344-32e4f8662f06",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e82c3889-b4f8-4d13-b8af-e064f016eb12",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "eef2d7d2-d0f4-4c9e-ad85-d658672ee803",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "fe6f82fe-cabd-4e96-bc9e-b40bc9b1fb7a",
+            "collectionId": "Galician",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
